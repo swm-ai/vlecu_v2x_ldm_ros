@@ -1,0 +1,11 @@
+int64 utctime
+uint8[4] id
+uint16 heading
+uint16 speed
+uint8 transmission
+uint16 basic_type
+uint16 response_equip
+uint16 responder_type
+float64 latitude
+float64 longitude
+float64 altitude

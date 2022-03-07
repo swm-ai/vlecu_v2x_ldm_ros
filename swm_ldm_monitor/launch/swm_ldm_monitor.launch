@@ -1,0 +1,3 @@
+<launch>
+<node name="swm_ldm_monitor_node" pkg="swm_ldm_monitor" type="swm_ldm_monitor_node" output="screen" />
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+<node name="swm_ldm_node" pkg="swm_ldm" type="swm_ldm_node" output="screen" args="-wpath=/home/swm/vlecu_app" />
+</launch>

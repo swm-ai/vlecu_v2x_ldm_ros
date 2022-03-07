@@ -1,0 +1,9 @@
+int64 utctime
+uint8[4] id
+uint8 response_type
+uint16 mass
+uint16 basic_type
+uint16 vehicle_type
+uint16 response_equip
+uint16 responder_type
+st_EMERGENCY_DETAILS[] details
